@@ -8,7 +8,7 @@ public class Main {
             new Thread(Server.SingletonHelper.getInstance()).start();
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Komit");
+            System.out.println("AAA");
         }
     }
 }
