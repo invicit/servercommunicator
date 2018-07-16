@@ -1,14 +1,15 @@
-import java.io.IOException;
+import server.Server;
 
-//ConnectionManager reads Message objects from socket input stream
+import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) {
+        Server server;
         try {
-            new Thread(Server.SingletonHelper.getInstance()).start();
+            server = new Server();
+            new Thread(server).start();
         } catch (IOException e) {
             e.printStackTrace();
-            System.out.println("Komit");
         }
     }
 }
