@@ -1,7 +1,6 @@
-package Messages;
+package message;
 
-public enum MessageTypes {
-
+public enum Type {
     USER_REGISTER_MESSAGE,
     USER_LOGIN_MESSAGE,
 
