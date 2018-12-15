@@ -1,5 +1,5 @@
 <application>
   <component name="IlluminatedCloudSettings">
-    <option name="detectedPluginConflict" value="true" />
+    <option name="promptOverrideSaveAllAction" value="false" />
   </component>
 </application>
