@@ -22,6 +22,10 @@
           <option name="url" value="https://gitlab.com/adriangorski996/kadry-wat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/adriangorski996/date-grammar-antlr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kryst\IdeaProjects" />
