@@ -38,6 +38,10 @@
           <option name="url" value="https://gitlab.com/adriangorski996/kwmw-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/K23G/todo-list.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kryst\IdeaProjects" />
