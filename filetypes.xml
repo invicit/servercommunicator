@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="l" type="JAVA" />
       <mapping pattern="persistance" type="XML" />
       <mapping ext="conf" type="XML" />
     </extensionMap>
