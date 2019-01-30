@@ -46,6 +46,10 @@
           <option name="url" value="https://gitlab.com/adriangorski996/jfk-lab3-scripting" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/adriangorski996/jfk-lab3-scripting.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\kryst\IdeaProjects" />
